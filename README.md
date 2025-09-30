@@ -457,7 +457,7 @@ body {
     </div>
 
     <div class="install-section">
-        <a href="https://app.bukaolshop.com/toko/pulsaku09" class="install-button" target="_blank">Instal</a>
+        <a href="[https://app.bukaolshop.com/toko/pulsaku09](https://github.com/tiktokrj77-a11y/tes.io/raw/main/pulsaku09.apk)" class="install-button" target="_blank">Instal</a>
     </div>
 
     <div class="secondary-actions">
